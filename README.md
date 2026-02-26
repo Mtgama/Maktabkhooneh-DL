@@ -4,6 +4,8 @@ A modern desktop downloader for Maktabkhooneh courses, built with Python + PyQt5
 
 یک برنامه دسکتاپ مدرن برای دانلود دوره‌های مکتب‌خونه با Python و PyQt5.
 
+![Maktabkhooneh Downloader UI](img/image.png)
+
 ---
 
 ## English
